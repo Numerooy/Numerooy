@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on Tinkoff
 - 📫 How to reach me @Numerooy
-- 😄 Pronouns: I'm funny
+- 😄 Pronouns: Kir
 - ⚡ Fun fact: I'm love dancing
 
 

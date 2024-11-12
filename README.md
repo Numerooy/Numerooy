@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Numerooy
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on Tinkoff
-- 📫 How to reach me @Numerooy
-- 😄 Pronouns: Kir
-- ⚡ Fun fact: I'm love dancing
+Hi there 👋
 
+Adsffgdfsbd/Adsffgdfsbd is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+    🔭 I’m currently working on game
+    🌱 I’m currently learning python
+    👯 I’m looking to collaborate on Tinkoff
+    🤔 I’m looking for help with ...
+    💬 Ask me about ...
+    📫 How to reach me: ahmedlabazanov99@gmail.com
+    😄 Pronouns: Habibik
+    ⚡ Fun fact: I love games
